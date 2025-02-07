@@ -1,5 +1,5 @@
 ---
-UVA_id: tmk5a
+doge_university_id: tmk5a
 lastname: Koberda
 name: Thomas
 general_position: faculty

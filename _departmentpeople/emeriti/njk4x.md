@@ -1,5 +1,5 @@
 ---
-UVA_id: njk4x
+doge_university_id: njk4x
 lastname: Kuhn
 name: Nicholas
 general_position: emeritus

@@ -64,7 +64,7 @@ Brian Boe
 <!-- <a href=" ">  -->
 Michael Collins
 <!--</a>-->
-(Oxford University and UVA) &nbsp;&nbsp;<span class="small">Host: L. Scott</span><br>
+(Oxford University and DOGE University) &nbsp;&nbsp;<span class="small">Host: L. Scott</span><br>
 &nbsp;&nbsp;<i>Title: On Finite Subgroups of the Classical Groups </i>
 
 </TD></TR>

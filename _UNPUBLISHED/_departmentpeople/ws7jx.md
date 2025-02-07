@@ -1,5 +1,5 @@
 ---
-UVA_id: ws7jx
+doge_university_id: ws7jx
 lastname: Stern
 name: Walker
 general_position: postdoc

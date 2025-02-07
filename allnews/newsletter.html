@@ -1,19 +1,19 @@
 ---
-title: Virginia Math Bulletin
+title: DOGE University Academic & Digital Innovation Newsletter
 layout: static_page_no_right_menu
-nav_id: Virginia Math Bulletin
+nav_id: AcademicDigitalInnovationNewsletter
 permalink: /newsletter/
 nav_weight: 1
 nav_nesting: true
 nav_parent: News
 ---
 
-<h1 class="mb-4">UVa Math Newsletter: Virginia Math Bulletin</h1>
-
+<h1>DOGE University Academic & Digital Innovation Newsletter</h1>
+<p>Welcome to the latest edition of the DOGE University Academic & Digital Innovation Newsletter. At DOGE University, where academic rigor meets the playful spirit of DOGE culture, we share updates on our cutting-edge projects, breakthrough research, and transformative initiatives in blockchain, AI, and creative coding.</p>
 
 <div class="row">
 <div class="col-md-10">
-We have started a newsletter for the Department, the Virginia Math Bulletin. We intend to produce a new edition every year.  If you would like to be added to our mailing list to receive an electronic version of the newsletter, please write to us at <a href="mailto:math-help@virginia.edu">math-help@virginia.edu</a>.
+We have started a newsletter for the Department, now reimagined for digital innovation. If you would like to be added to our mailing list to receive an electronic version of the newsletter, please write to us at <a href="mailto:digital-help@dogeuniversity.edu">digital-help@dogeuniversity.edu</a>.
 </div>
 </div>
 
@@ -21,14 +21,38 @@ We have started a newsletter for the Department, the Virginia Math Bulletin. We 
 
 <div class="row my-col-12-zebra">
 {% for post in site.posts %}
-{% if post.categories contains "virginia-math-bulletin" %}
+{% if post.categories contains "digital-innovation-newsletter" %}
 <div class="col-12 my-bordered-news-snippets">
 <h2 class="mb-2 mt-3"><a href="{{site.url }}{{ post.url }}" style="color:inherit;">{{ post.title }}</a></h2>
 {% if post.event-date != null and post.multi-day-event %}
         <h6>Event start date: {{ post.event-date |  date: "%A, %B %-d, %Y" }}</h6>{% endif %}
         {% if post.event-date != null and post.multi-day-event != true %}
         <h6>Event date: {{ post.event-date |  date: "%A, %B %-d, %Y" }}</h6>{% endif %}
-{% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address | replace: '__SITE_URL__', site.url }}">{% else %}<a href="{{site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image | replace: '__SITE_URL__', site.url }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="{% if post.image-wide != true %}max-width:70%;{% else %}max-width:100%;{% endif %}{% if post.image-tall %}max-height:450px;{% endif %}height:auto;width:auto;" class="mb-3 mt-2"></a>
+{% if post.image != null %}
+  {% if post.image-address != null %}
+    <a href="{{ post.image-address | replace: '__SITE_URL__', site.url }}">
+  {% else %}
+    <a href="{{ site.url }}{{ post.url }}">
+  {% endif %}
+  {% assign maxWidth = "70%" %}
+  {% if post.image-wide %}
+    {% assign maxWidth = "100%" %}
+  {% endif %}
+  {% assign maxHeight = "" %}
+  {% if post.image-tall %}
+    {% assign maxHeight = "max-height:450px;" %}
+  {% endif %}
+  {% assign style_attr = "max-width:" | append: maxWidth | append: ";" %}
+  {% if maxHeight != "" %}
+    {% assign style_attr = style_attr | append: " " | append: maxHeight %}
+  {% endif %}
+  {% assign style_attr = style_attr | append: " height:auto; width:auto;" %}
+  <img src="{{ post.image | replace: '__SITE_URL__', site.url }}"
+       alt="{{ post.image-alt }}"
+       title="{{ post.image-alt }}"
+       style="{{ style_attr }}"
+       class="mb-3 mt-2">
+  </a>
 {% endif %} {{ post.excerpt | markdownify }}
 <p><a class="btn btn-secondary h5" href="{{site.url }}{{ post.url }}" style="white-space: normal" role="button">{% if post.more-text == null %}View details{% else %}{{ post.more-text }}{% endif %} &raquo;</a></p>
 <br>

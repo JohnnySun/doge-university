@@ -1,5 +1,5 @@
 ---
-UVA_id: rsx5wp
+doge_university_id: rsx5wp
 lastname: Park
 name: Jun Hyun
 general_position: gradstudent

@@ -1,5 +1,5 @@
 ---
-UVA_id: aso9t
+doge_university_id: aso9t
 lastname: Obus
 name: Andrew
 general_position: faculty

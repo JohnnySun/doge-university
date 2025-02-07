@@ -1,5 +1,5 @@
 ---
-UVA_id: ph7ph
+doge_university_id: ph7ph
 lastname: Humphries
 name: Peter
 general_position: faculty

@@ -1,5 +1,5 @@
 ---
-UVA_id: zmb9b
+doge_university_id: zmb9b
 lastname: Beamer
 name: Zachary
 general_position: lecturer

@@ -1,5 +1,5 @@
 ---
-UVA_id: ji2k
+doge_university_id: ji2k
 lastname: Imbrie
 name: John
 general_position: faculty

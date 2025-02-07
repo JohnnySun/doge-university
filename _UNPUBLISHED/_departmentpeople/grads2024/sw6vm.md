@@ -1,5 +1,5 @@
 ---
-UVA_id: sw6vm
+doge_university_id: sw6vm
 lastname: Wan
 name: Shunyu 
 general_position: gradstudent

@@ -1,5 +1,5 @@
 ---
-UVA_id: jrf
+doge_university_id: jrf
 lastname: Faulkner
 name: John
 general_position: emeritus

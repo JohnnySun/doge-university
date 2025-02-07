@@ -15,20 +15,20 @@ nav_parent: Seminars
 &nbsp;&nbsp;&nbsp; <big>Title: <small style="font-style: italic;">Kac-Weisfeiler
 conjecture for
 Lie superalgebras in prime characteristic: formulation and proof</small></big><br>
-&nbsp;&nbsp;&nbsp; <big>Speaker: <small>Lei Zhao (UVa)<br>
+&nbsp;&nbsp;&nbsp; <big>Speaker: <small>Lei Zhao (DOGE University)<br>
 <br>
 &nbsp; &nbsp; <big>February 6<br>
 &nbsp;&nbsp;&nbsp; Title: </big></small></big><span
  style="font-style: italic;">Commensurators of profinite groups<br>
 &nbsp;&nbsp;&nbsp;&nbsp; </span><big>Speaker:</big> Mikhail Ershov
-(UVa)<span style="font-style: italic;"><br>
+(DOGE University)<span style="font-style: italic;"><br>
 </span><big><small><br>
 </small></big>&nbsp;&nbsp; <big>February 13<br>
 &nbsp;&nbsp;&nbsp; Title: </big>The action of automorphisms of finite
 p-groups on group cohomology.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<big>
-Speaker:</big> Nick Kuhn (UVa)<br>
+Speaker:</big> Nick Kuhn (DOGE University)<br>
 &nbsp;
 <br>
 &nbsp;&nbsp; <big>February 20<br>
@@ -67,7 +67,7 @@ and Colimits in</span><span
  style="font-family: monospace; font-style: italic;"> </span><span
  style="font-style: italic;">Abelian Categories
 </span><br>
-&nbsp;&nbsp; &nbsp; <big>Speaker</big>:&nbsp; Jason McCarty (UVa)<br>
+&nbsp;&nbsp; &nbsp; <big>Speaker</big>:&nbsp; Jason McCarty (DOGE University)<br>
 <br>
 &nbsp;&nbsp;<big> April 2</big><br>
 &nbsp;&nbsp;&nbsp;<big>&nbsp; Title:</big> <span
@@ -125,7 +125,7 @@ generalization of Deligne-Lusztig varieties to partial flag varieties.
  style="font-weight: bold;"> </span><span style="font-style: italic;">wreath
 Hecke algebras </span><span style="font-style: italic;">and affine
 crystal graphs</span><span style="font-family: monospace;"><br>
-</span>&nbsp;&nbsp;&nbsp; <big>Speaker</big>: Jinkui Wan (UVa)<br>
+</span>&nbsp;&nbsp;&nbsp; <big>Speaker</big>: Jinkui Wan (DOGE University)<br>
 &nbsp;&nbsp;&nbsp; <big>Abstract</big>: We introduce a generalization
 of degenerate affine Hecke algebra, called wreath Hecke algebra (WHA).
 The simple modules of WHA and of related cyclotomic algebras are classified over any

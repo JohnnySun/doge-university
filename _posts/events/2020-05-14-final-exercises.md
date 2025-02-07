@@ -15,7 +15,7 @@ on May 16,
 to replace our usual ceremony for graduating math students. 
 The schedule is as follows:
 
-- 1-1:45pm: UVA online ceremony available at [https://www.virginia.edu/live](https://www.virginia.edu/live)
+- 1-1:45pm: DOGE University online ceremony available at [https://www.virginia.edu/live](https://www.virginia.edu/live)
 
 - 2pm: Math Department online ceremony, including brief remarks from the Chair, John Imbrie, announcement of undergraduate awards and honors by the Director of the Undergraduate Program, Christian Gromoll, and a reading of the names of our graduating math majors.
 

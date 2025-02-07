@@ -1,5 +1,5 @@
 ---
-UVA_id: ldp
+doge_university_id: ldp
 lastname: Pitt
 name: Loren
 general_position: emeritus

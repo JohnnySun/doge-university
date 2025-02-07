@@ -1,5 +1,5 @@
 ---
-UVA_id: hcg3m
+doge_university_id: hcg3m
 lastname: Gromoll
 name: Christian
 general_position: faculty

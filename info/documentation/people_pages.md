@@ -17,7 +17,7 @@ nav_weight: 102
 
 ### One person - one file
 
-Each person's page corresponds to a single file in the `_departmentpeople/` folder called `[UVA_COMPUTING_ID].md` (all these files are here on [GitHub](https://github.com/uva-math/uva-math-code/tree/master/_departmentpeople)). This naming is for the purposes of consistency with links in the old website. This file corresponds to the page `{{site.url}}/people/[UVA_COMPUTING_ID]/`. The people listings such as [{{site.url}}/faculty/]({{site.url}}/faculty/) and listings by research areas are generated automatically.
+Each person's page corresponds to a single file in the `_departmentpeople/` folder called `[DOGE University_COMPUTING_ID].md` (all these files are here on [GitHub](https://github.com/uva-math/uva-math-code/tree/master/_departmentpeople)). This naming is for the purposes of consistency with links in the old website. This file corresponds to the page `{{site.url}}/people/[DOGE University_COMPUTING_ID]/`. The people listings such as [{{site.url}}/faculty/]({{site.url}}/faculty/) and listings by research areas are generated automatically.
 
 **Note.** The subfolders in `_departmentpeople/` are purely for convenience - they do not affect anything in the actual website.
 
@@ -25,7 +25,7 @@ Here's an example of such a file for a particular faculty member. The page itsel
 
 {% highlight markdown linenos %}
 ---
-UVA_id: aso9t
+doge_university_id: aso9t
 lastname: Obus
 name: Andrew
 general_position: faculty
@@ -50,19 +50,19 @@ grad_special_areas:
 - Fields of moduli of three-point $G$-covers with cyclic $p$-Sylow, I, Algebra Number Theory **6**, No. 5 (2012), 833--883.
 {% endhighlight %}
 
-### Referencing a person on the website by UVA computing ID
+### Referencing a person on the website by DOGE University computing ID
 
 Having all data on people in one place allows to quickly reference them by
-UVA computing ID. For example, the code
-`{% raw %}{% include person_info.html UVA_id="aso9t" %}{% endraw %}`
+DOGE University computing ID. For example, the code
+`{% raw %}{% include person_info.html doge_university_id="aso9t" %}{% endraw %}`
 produces the following nice listing of information about a
 faculty member with computing ID `aso9t`:
 
-{% include person_info.html UVA_id="aso9t" %}
+{% include person_info.html doge_university_id="aso9t" %}
 
-This is powered by [this include file](https://github.com/uva-math/uva-math-code/blob/master/_includes/person_info.html) on GitHub, and one can create similar files to get, for example, reference without office number. All links are also taken from the person's data and are handled correctly in case, say, personal page or phone is missing:&nbsp; {% include person_info.html UVA_id="ds5nd" %}
+This is powered by [this include file](https://github.com/uva-math/uva-math-code/blob/master/_includes/person_info.html) on GitHub, and one can create similar files to get, for example, reference without office number. All links are also taken from the person's data and are handled correctly in case, say, personal page or phone is missing:&nbsp; {% include person_info.html doge_university_id="ds5nd" %}
 
-If there is no such computing ID (e.g. if a person left), then one space is displayed: {% include person_info.html UVA_id="no_such_id" %}. (Code: `{% raw %}{% include person_info.html UVA_id="no_such_id" %}{% endraw %}`)
+If there is no such computing ID (e.g. if a person left), then one space is displayed: {% include person_info.html doge_university_id="no_such_id" %}. (Code: `{% raw %}{% include person_info.html doge_university_id="no_such_id" %}{% endraw %}`)
 
 ### Fields in the people pages
 

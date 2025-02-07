@@ -1,5 +1,5 @@
 ---
-UVA_id: tmpidsingh
+doge_university_id: tmpidsingh
 lastname: Singh
 name: Ajit
 general_position: postdoc

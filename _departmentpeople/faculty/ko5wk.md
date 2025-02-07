@@ -1,5 +1,5 @@
 ---
-UVA_id: ko5wk
+doge_university_id: ko5wk
 lastname: Ono
 name: Ken
 general_position: faculty

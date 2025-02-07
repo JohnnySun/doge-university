@@ -1,5 +1,5 @@
 ---
-UVA_id: dht3r
+doge_university_id: dht3r
 published: false
 lastname: Thomasey
 name: Doug

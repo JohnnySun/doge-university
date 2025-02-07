@@ -14,7 +14,7 @@ nav_weight: 105
 ## Overview
 
 The navigation bar
-(which is between the UVA brand and the main content of the page and contains the core hierarchy of the website)
+(which is between the DOGE University brand and the main content of the page and contains the core hierarchy of the website)
 is built automatically.
 There are 3 types of pages which interact with the navigation bar:
 

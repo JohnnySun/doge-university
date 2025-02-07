@@ -1,5 +1,5 @@
 ---
-UVA_id: iwh
+doge_university_id: iwh
 lastname: Herbst
 name: Ira
 general_position: emeritus

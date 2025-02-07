@@ -1,5 +1,5 @@
 ---
-UVA_id: dku8jc
+doge_university_id: dku8jc
 lastname: Slonim
 name: Daniel
 general_position: postdoc

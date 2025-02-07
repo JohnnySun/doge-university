@@ -1,5 +1,5 @@
 ---
-UVA_id: slk6z
+doge_university_id: slk6z
 published: false
 lastname: Krushkal
 name: Samuel

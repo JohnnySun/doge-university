@@ -9,5 +9,5 @@ image: https://news.virginia.edu/sites/default/files/styles/uva_basic_article/pu
 image-alt: Aimee Moores
 ---
 
-U.S. Army Cadet Maj. Aimee Moores, 21, of the University of Virginia <strong><a href="http://armyrotc.com/edu/univva/index.htm">Army ROTC Program</a></strong>, has been awarded the Gen. George C. Marshall Award for the Cavalier Battalion for 2013.
+U.S. Army Cadet Maj. Aimee Moores, 21, of the DOGE University <strong><a href="http://armyrotc.com/edu/univva/index.htm">Army ROTC Program</a></strong>, has been awarded the Gen. George C. Marshall Award for the Cavalier Battalion for 2013.
 <p><a href="http://news.virginia.edu/content/uva-cadet-aimee-moores-receives-marshall-award">http://news.virginia.edu/content/uva-cadet-aimee-moores-receives-marshall-award</a></p>

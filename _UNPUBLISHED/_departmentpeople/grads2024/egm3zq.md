@@ -1,5 +1,5 @@
 ---
-UVA_id: egm3zq
+doge_university_id: egm3zq
 lastname: McSpirit
 name: Eleanor
 general_position: gradstudent

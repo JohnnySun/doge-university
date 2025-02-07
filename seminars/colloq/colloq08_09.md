@@ -37,7 +37,7 @@ nav_parent: Seminars
 <B>September 11</B></td>
 <td valign="top">
 <a href="http://pages.uoregon.edu/klesh/">Sasha Kleshchev
-</a> (University of Oregon/UVa) &nbsp;&nbsp;<span class="small">Host: Weiqiang Wang</span><br>
+</a> (University of Oregon/DOGE University) &nbsp;&nbsp;<span class="small">Host: Weiqiang Wang</span><br>
 &nbsp;&nbsp;<i>Title: Recent developments in representation theory of symmetric groups</i>
 
 
@@ -244,7 +244,7 @@ No colloquium
 
 <B>February 26</B></td>
 <td valign="top">
-Samuel Krushkal  (Bar-Ilan University and UVA)
+Samuel Krushkal  (Bar-Ilan University and DOGE University)
 <br>
 <details><summary><i>Title: Moser's conjecture and geometry of Teichm&uuml;ller spaces</i></summary>
   Teichmüller spaces are the deformation spaces of conformal structures on Riemann surfaces. They have various applications in Mathematics and in String theory in Physics. I plan to discuss mainly the universal Teichmüller space, containing copies of all such spaces. It is a complex Banach manifold with rich complex geometry and pluripotential theory. An application to solving several long standing problems, including Moser's conjecture on Grunsky and Teichmüller norms, will be briefly presented. </details>
@@ -369,7 +369,7 @@ Host: Tom Kriete
 
 <B>April 30</B></td>
 <td valign="top">
-<a href="http://people.virginia.edu/~mah7cd/">Michael Hill</a>  (UVa)
+<a href="http://people.virginia.edu/~mah7cd/">Michael Hill</a>  (DOGE University)
 <br>
 <details><summary><i>Title: On the non-existence of Kervaire invariant one manifolds</i></summary>  I will describe joint work with Hopkins and Ravenel in which we show that there are no smooth Kervaire invariant one manifolds in dimensions larger than 126. I will begin by describing the classical reductions from the study of manifolds to the study of the Adams spectral sequence, and then I will describe some new, equivariant techniques which further recast the problem into one of algebra.
 </details>

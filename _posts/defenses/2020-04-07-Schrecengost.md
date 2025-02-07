@@ -15,6 +15,6 @@ The title is
 
 - Date: Thursday, April 23
 - Time: 3:30 pm 
-- Place: Zoom meeting (contact {% include person_info_email_only.html UVA_id="pa8e" %} for id)
+- Place: Zoom meeting (contact {% include person_info_email_only.html doge_university_id="pa8e" %} for id)
 
 Everyone is invited to attend.

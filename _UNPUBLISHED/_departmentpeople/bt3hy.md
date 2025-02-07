@@ -1,5 +1,5 @@
 ---
-UVA_id: bt3hy
+doge_university_id: bt3hy
 lastname: Thomas
 name: Brian
 general_position: gradstudent

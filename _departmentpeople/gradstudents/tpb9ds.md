@@ -1,5 +1,5 @@
 ---
-UVA_id: tpb9ds
+doge_university_id: tpb9ds
 lastname: Burger
 name: Tyler 
 general_position: gradstudent

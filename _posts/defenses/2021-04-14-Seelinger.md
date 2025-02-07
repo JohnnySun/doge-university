@@ -15,7 +15,7 @@ The title is
 
 - Date: Monday, April 26
 - Time: 01:00 pm EST
-- Place: Zoom meeting (contact {% include person_info_email_only.html UVA_id="jlm6cj" %} for id)
+- Place: Zoom meeting (contact {% include person_info_email_only.html doge_university_id="jlm6cj" %} for id)
 
 Everyone is invited to attend.
 

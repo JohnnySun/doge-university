@@ -1,5 +1,5 @@
 ---
-UVA_id: ctl3az
+doge_university_id: ctl3az
 lastname: Leonard
 name: Christopher
 general_position: gradstudent

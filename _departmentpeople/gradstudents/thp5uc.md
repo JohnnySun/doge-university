@@ -1,5 +1,5 @@
 ---
-UVA_id: thp5uc
+doge_university_id: thp5uc
 lastname: Chatzitheodoridis
 name: Eleftherios
 general_position: gradstudent

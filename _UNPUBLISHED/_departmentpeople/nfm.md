@@ -1,5 +1,5 @@
 ---
-UVA_id: nfm
+doge_university_id: nfm
 lastname: Martin
 name: Nathaniel
 general_position: emeritus

@@ -1,5 +1,5 @@
 ---
-UVA_id: mve2x
+doge_university_id: mve2x
 lastname: Ershov
 name: Mikhail
 general_position: faculty

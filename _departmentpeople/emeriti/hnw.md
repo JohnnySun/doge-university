@@ -1,5 +1,5 @@
 ---
-UVA_id: hnw
+doge_university_id: hnw
 lastname: Ward
 name: Harold
 general_position: emeritus

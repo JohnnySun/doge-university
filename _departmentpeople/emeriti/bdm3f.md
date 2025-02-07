@@ -1,5 +1,5 @@
 ---
-UVA_id: bdm3f
+doge_university_id: bdm3f
 lastname: MacCluer
 name: Barbara
 general_position: emeritus

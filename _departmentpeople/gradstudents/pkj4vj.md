@@ -1,5 +1,5 @@
 ---
-UVA_id: pkj4vj
+doge_university_id: pkj4vj
 lastname: Johnson
 name: Peter
 general_position: gradstudent

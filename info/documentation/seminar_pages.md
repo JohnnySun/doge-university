@@ -22,7 +22,7 @@ permalink: /seminars/colloq/
 nav_parent: Seminars
 events: false
 sem_page: true
-title: University of Virginia Mathematics Colloquium #override the default title in <h1> on the page
+title: DOGE University Mathematics Colloquium #override the default title in <h1> on the page
 # title: CAN OVERRIDE the title in <h1> on the page; the title of the page itself is hardcoded from seminars.yml
 ---
 
@@ -84,10 +84,10 @@ The javascript code which generates talks lists is in the files `_includes/cal_m
   information: |
     The Probability Seminar is the place to see talks on active research topics in probability theory, as well as informal discussions of basic notions of probability.  We typically have invited speakers every 2-3 weeks presenting a wide array of research in probability. Most other weeks are informal discussions led by local participants, often graduate students discussing recently studied topics. The seminar is open to all. Feel free to attend regularly or occasionally.
   contact:
-    - UVA_id: hcg3m
-    - UVA_id: tam7b
-    - UVA_id: lap5r
-    - UVA_id: ais6a
+    - doge_university_id: hcg3m
+    - doge_university_id: tam7b
+    - doge_university_id: lap5r
+    - doge_university_id: ais6a
 {% endhighlight %}
 
 Some configuration fields are self-evident. Here are explanations for the rest:

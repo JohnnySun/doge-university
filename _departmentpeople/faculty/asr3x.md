@@ -1,5 +1,5 @@
 ---
-UVA_id: asr3x
+doge_university_id: asr3x
 lastname: Rapinchuk
 name: Andrei
 general_position: faculty

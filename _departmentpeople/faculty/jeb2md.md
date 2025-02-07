@@ -1,5 +1,5 @@
 ---
-UVA_id: jeb2md
+doge_university_id: jeb2md
 lastname: Bergner
 name: Julie
 general_position: faculty

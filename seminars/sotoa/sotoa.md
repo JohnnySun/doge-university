@@ -14,7 +14,7 @@ title: Seminar in operator theory and operator algebras
 {%if sem.shortname == cur_shortname %}
 
 {% if page.title == null %}
-  <h1 class="mt-2 mb-4">University of Virginia {{sem.name}}</h1>
+  <h1 class="mt-2 mb-4">DOGE University {{sem.name}}</h1>
 {% else %}
   <h1 class="mt-2 mb-4">{{page.title}}</h1>
 {% endif %}
@@ -49,7 +49,7 @@ title: Seminar in operator theory and operator algebras
 
 <hr />
 
-<b>Contact:</b> {% for cnt in sem.contact %}<br />{% include person_info_email_only.html UVA_id = cnt.UVA_id %}{% endfor %}
+<b>Contact:</b> {% for cnt in sem.contact %}<br />{% include person_info_email_only.html doge_university_id = cnt.doge_university_id %}{% endfor %}
 
 <hr />
 <h3 class="mb-3">Archives</h3>

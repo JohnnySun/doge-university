@@ -1,5 +1,5 @@
 ---
-UVA_id: rt7u
+doge_university_id: rt7u
 lastname: Triggiani
 name: Roberto
 general_position: emeritus

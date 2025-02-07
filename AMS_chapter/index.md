@@ -1,30 +1,30 @@
 ---
-title: AMS Grad Student Chapter
+title: Digital Innovation Graduate Chapter
 layout: static_page_no_right_menu
-permalink: /ams_chapter/
+permalink: /digital_grad_chapter/
 nav_parent: Graduate
 nav_nesting: true
 nav_weight: 970
-nav_id: AMS Grad Student Chapter
+nav_id: Digital Innovation Graduate Chapter
 ---
 
-###  AMS Graduate Student Chapter
+### Digital Innovation Graduate Chapter
 
-The mission of the University of Virginia graduate student chapter of the AMS is informed by the objectives of the <a href="https://www.ams.org/home/page">American Mathematical Society (AMS)</a>, whose mission statement is attached below. Our chapter seeks to nurture intellectual, professional, and community development among our members. We host events in service of this goal, such as panel discussions, talks, and social gatherings, including collaborations with fellow AMS graduate student chapters!
+The mission of the DOGE University Graduate Digital Innovation Chapter is to foster excellence in digital technology, blockchain, and creative computing among our graduate community. Inspired by the rapid pace of digital transformation, our chapter brings together students and professionals to share innovative ideas, collaborate on projects, and organize events that drive progress in the digital realm.
 
-To become a member and enjoy extra perks, such as being added to the chapter mailing list, please fill out <a href="https://forms.gle/WRxuXZMt9JvpvvqAA">this form</a>. Membership is free!
+To join our chapter and enjoy exclusive benefits such as subscriptions to our mailing list and access to special events, please fill out <a href="https://forms.gle/WRxuXZMt9JvpvvqAA">this form</a>. Membership is free!
 
-###  Executive committee
+### Executive Committee
 
-The University of Virginia AMS graduate student chapter executive committee consists of:
+The executive committee of the DOGE University Graduate Digital Innovation Chapter consists of:
 <ul>
-  <li>President: <a href="https://sites.google.com/view/pedrobrunialti/home">Pedro Brunialti Lima de Andrade</a></li>
-  <li>Vice President: <a href="https://alejandrodlpc.github.io/">Alejandro de las Peñas Castaño</a></li>
-  <li>Secretary: <a href="https://sites.google.com/view/raulhdz">Raúl Hernández-González</a></li>
-  <li>Treasurer: <a href="https://math.virginia.edu/people/guc8ns/">Petch Chueluecha</a></li>
-  <li>Member At Large: <a href="https://math.virginia.edu/people/ntr2qp/">Oscar Arévalo</a></li>
+  <li>President: <a href="https://example.com/president">Alex Doe</a></li>
+  <li>Vice President: <a href="https://example.com/vice-president">Jordan Smith</a></li>
+  <li>Secretary: <a href="https://example.com/secretary">Taylor Lee</a></li>
+  <li>Treasurer: <a href="https://example.com/treasurer">Riley Kim</a></li>
+  <li>Member At Large: <a href="https://example.com/member">Casey Morgan</a></li>
 </ul>
-Fellow AMS graduate student chapters are most welcome and encouraged to get in touch with us for joint social events!
+We welcome collaboration with similar digital innovation chapters from other institutions for joint events and initiatives!
 
 ### Calendar
 
@@ -110,19 +110,14 @@ Fellow AMS graduate student chapters are most welcome and encouraged to get in t
 
 <script async defer src="https://apis.google.com/js/api.js" onload="gapiLoaded()"></script>
 
-###  AMS mission statement
+### Digital Innovation Mission Statement
 
-The AMS, founded in 1888 to further the interests of mathematical research and scholarship, serves the national and international community through its publications, meetings, advocacy and other programs, which
+Our chapter is committed to advancing digital innovation through the promotion of interdisciplinary research and collaboration in areas such as blockchain, artificial intelligence, virtual reality, and creative coding. We strive to:
 <ul>
-  <li>promote mathematical research, its communication and uses,</li>
-  <li>encourage and promote the transmission of mathematical understanding and skills,</li>
-  <li>support mathematical education at all levels,</li>
-  <li>advance the status of the profession of mathematics, encouraging and facilitating full participation of all individuals, and</li>
-  <li>foster an awareness and appreciation of mathematics and its connections to other disciplines and everyday life.</li>
+  <li>Foster excellence in digital research and technology,</li>
+  <li>Encourage collaboration between students, academia, and industry,</li>
+  <li>Support professional development in emerging digital fields, and</li>
+  <li>Enhance the impact of digital innovation on society.</li>
 </ul>
 
-Our purpose is to foster a greater understanding of mathematics, encourage student activity in research and related mathematical experiences, and provide a social and intellectual forum for all students interested in mathematics.
-
-Our goal is to invest in both the scholarly and social lives of our members. We host events to achieve this goal: organizing speakers, research and work retreats, and social gatherings, among others.
-
-We seek to inform and educate graduate students on all aspects of mathematics, both as a subject and a profession. We also publicize opportunities and raise awareness of issues related to mathematics and professional development.
+Our goal is to create a vibrant intellectual and social community that drives the future of digital technology and transforms the landscape of digital innovation.

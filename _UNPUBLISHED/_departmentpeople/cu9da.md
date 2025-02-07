@@ -1,5 +1,5 @@
 ---
-UVA_id: cu9da
+doge_university_id: cu9da
 lastname: Ure
 name: Charlotte
 general_position: postdoc

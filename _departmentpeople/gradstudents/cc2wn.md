@@ -1,5 +1,5 @@
 ---
-UVA_id: cc2wn
+doge_university_id: cc2wn
 lastname: Chung
 name: Christopher
 general_position: gradstudent

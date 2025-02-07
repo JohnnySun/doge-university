@@ -68,10 +68,3 @@ Many conferences have money to support the travel of younger mathematicians. If 
 The AMS has several kinds of travel grants{% if d <= '18' %}, ranging in scope from regional trips to sectional meetings to the ICM in Summer 2018 in Brazil.{% else %}:{% endif %}
 - <a href="http://www.ams.org/programs/travel-grants/grad-students/emp-student-JMM">AMS Graduate Student Travel Grants for Sectional Meetings and the Joint Meetings</a>
 - <a href="http://www.ams.org/programs/travel-grants/travel-grants">AMS Travel Grants Main Page</a>
-
-
-### Association for Women in Mathematics
-
-The AWM provides funding for women in mathematics to travel for conferences, mentoring opportunites, and workshops. More information can be found at their website:
-- <a href="https://awm-math.org/awards/awm-grants/travel-grants/">AWM Travel Grants</a>
-- See also the [AWM Student Chapter at the University of Virginia](http://people.virginia.edu/~er2eq/uva-awm/) page

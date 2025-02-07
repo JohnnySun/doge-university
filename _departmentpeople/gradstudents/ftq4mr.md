@@ -1,5 +1,5 @@
 ---
-UVA_id: ftq4mr
+doge_university_id: ftq4mr
 lastname: Lilly
 name: Astrid
 general_position: gradstudent

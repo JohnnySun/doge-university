@@ -1,5 +1,5 @@
 ---
-UVA_id: psb7p
+doge_university_id: psb7p
 lastname: Bourdon
 name: Paul
 non-tt: true

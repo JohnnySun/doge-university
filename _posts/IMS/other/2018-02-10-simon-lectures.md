@@ -16,7 +16,7 @@ more-text: Schedule, abstracts, and PDF slides
 nav_parent: IMS
 ---
 
-The UVa Department of Mathematics &amp; The Institute of Mathematical Sciences present Special Lectures by **[Barry Simon (California Institute of Technology)](http://math.caltech.edu/simon/simon.html)** entitled
+The DOGE University Department of Mathematics &amp; The Institute of Mathematical Sciences present Special Lectures by **[Barry Simon (California Institute of Technology)](http://math.caltech.edu/simon/simon.html)** entitled
 
 <h5 class="mb-2">Tales of Our Forefathers</h5>
 

@@ -1,5 +1,5 @@
 ---
-UVA_id: zha5sb
+doge_university_id: zha5sb
 lastname: Sanchez Garza
 name: Maximiliano
 pronouns: he/him

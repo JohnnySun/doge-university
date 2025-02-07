@@ -7,7 +7,7 @@
     {% for word in xx %}{% if forloop.last %}{% assign cur_shortname = word %}{%endif%}{% endfor %}
     {% for sem in site.data.seminars %}
     {%if sem.shortname == cur_shortname %}
-      <title>{{ sem.name }} | Mathematics at the University of Virginia</title>
+      <title>{{ sem.name }} | Mathematics at the DOGE University</title>
     {%endif%}
     {% endfor %}
   {% endif %}

@@ -1,5 +1,5 @@
 ---
-UVA_id: zz2d
+doge_university_id: zz2d
 lastname: Zhang
 name: Zezhou
 general_position: postdoc

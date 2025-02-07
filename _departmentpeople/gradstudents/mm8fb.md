@@ -1,5 +1,5 @@
 ---
-UVA_id: mm8fb
+doge_university_id: mm8fb
 lastname: McCarthy
 name: Matthew
 general_position: gradstudent

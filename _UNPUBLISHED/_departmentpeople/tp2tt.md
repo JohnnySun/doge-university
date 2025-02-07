@@ -1,5 +1,5 @@
 ---
-UVA_id: tp2tt
+doge_university_id: tp2tt
 lastname: Polstra
 name: Thomas
 general_position: postdoc

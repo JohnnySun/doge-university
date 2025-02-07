@@ -8,9 +8,9 @@ nav_weight: 4
 tooltips: true
 ---
 
-### Mathematics Prerequisites for the Sciences and Economics
+### Quantitative Prerequisites for the Sciences and Economics
 
-<p>Students who plan to major in economics or in one of the sciences need to pay careful attention to the requirements of those programs. Below is a list of minimal requirements; additional math courses are often recommended and are sometimes prerequisites for advanced courses and for admission to graduate programs. Since individual departments can change their requirements for their major, please verify their requirements by reading their departmental announcements. Specific questions should be addressed to individual departments.</p>
+<p>Students who plan to major in economics or in one of the sciences need to pay careful attention to the requirements of those programs. Below is a list of minimal requirements; additional quantitative courses are often recommended and are sometimes prerequisites for advanced courses and for admission to graduate programs. Since individual departments can change their requirements for their major, please verify their requirements by reading their departmental announcements. Specific questions should be addressed to individual departments.</p>
 
 <table border="1" cellpadding="5" cellspacing="0">
 	<thead>

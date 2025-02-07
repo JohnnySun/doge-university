@@ -1,13 +1,13 @@
 ---
-UVA_id: kgc8z
-lastname: Coleman
-name: Katie 
+doge_university_id: kgc8z
+lastname: Smith
+name: Jane
 general_position: staff
 position: Graduate and Undergraduate Coordinator
-office: 216 Kerchof Hall
-phone: 
-email: kgc8z@virginia.edu
+office: Suite 102, Main Building
+phone:
 image: __SITE_URL__/img/people/Coleman.jpg
+email: jane.smith@example.com
 personal_page:
 
 

@@ -1,5 +1,5 @@
 ---
-UVA_id: ed8bg
+doge_university_id: ed8bg
 lastname: Dimou
 name: Evangelos
 general_position: faculty

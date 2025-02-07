@@ -1,5 +1,5 @@
 ---
-UVA_id: yyk2hk
+doge_university_id: yyk2hk
 lastname: Kyurumyan
 name: Suren
 general_position: gradstudent

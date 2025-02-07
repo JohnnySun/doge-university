@@ -1,5 +1,5 @@
 ---
-UVA_id: ala3t
+doge_university_id: ala3t
 lastname: Avalos
 name: Adrian
 general_position: gradstudent

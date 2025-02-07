@@ -1,8 +1,8 @@
-url: "https://math.virginia.edu"
+url: "https://blog.johnny.moe/doge-university"
 geomtop: "RTG_geomtop"
 
-name: Mathematics at the University of Virginia
-description: Official website of Department of Mathematics at the University of Virginia
+name: DOGE University
+description: Official website of DOGE University, where academic excellence meets innovative crypto culture.
 
 markdown: kramdown
 # kramdown:
@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-author: UVA Math
+author: DOGE University
 
 feed:
   path: /feed.xml

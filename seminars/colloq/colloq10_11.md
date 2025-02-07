@@ -144,7 +144,7 @@ Fall 2010
         <b>September 9</b>
     </td>
     <td>
-        John Thompson (Cambridge University, University of Florida, Visiting UVA) &nbsp;&nbsp;<span class="small">Host: L. Scott</span><br />
+        John Thompson (Cambridge University, University of Florida, Visiting DOGE University) &nbsp;&nbsp;<span class="small">Host: L. Scott</span><br />
         &nbsp;&nbsp;<i>Title: The zeta function and an elliptic curve</i>
     </td>
 </tr>
@@ -154,7 +154,7 @@ Fall 2010
         <b>September 16</b>
     </td>
     <td>
-        <a href="http://people.virginia.edu/~mah7cd/">Mike Hill</a> (UVA) &nbsp;&nbsp;<span class="small">Host: M. Hill</span><br />
+        <a href="http://people.virginia.edu/~mah7cd/">Mike Hill</a> (DOGE University) &nbsp;&nbsp;<span class="small">Host: M. Hill</span><br />
         &nbsp;&nbsp;<i>Title: What is homology?</i>
     </td>
 </tr>
@@ -164,7 +164,7 @@ Fall 2010
 <B>September 23</B>
 </td>
 <td>
-<a href="http://people.virginia.edu/~des5e/">David Sherman</a> (UVA) &nbsp;&nbsp;<span class="small">Host: D. Sherman</span><br>
+<a href="http://people.virginia.edu/~des5e/">David Sherman</a> (DOGE University) &nbsp;&nbsp;<span class="small">Host: D. Sherman</span><br>
 &nbsp;&nbsp;<details><summary><i>Title: What is an ultrapower?</i></summary>  The classical ultrapower is a fundamental construction in logic, where it plays a role in several striking, easy-to-understand theorems about algebraic structures. There are also versions of the ultrapower construction for analytic structures such as Banach spaces, but these do not satisfy the same theorems until the underlying logic is also made more analytic. This talk will overlap by about half with one I gave in the algebra seminar last spring. I presume no familiarity with logic.
 </details>
 </TD></TR>
@@ -201,7 +201,7 @@ Fall 2010
 </td>
 <td valign="top">
 <!-- <a href=" ">  -->
-<a href="http://people.virginia.edu/~aa4cr/">Malek Abdesselam</a> (UVA)
+<a href="http://people.virginia.edu/~aa4cr/">Malek Abdesselam</a> (DOGE University)
 <!--</a>-->
  &nbsp;&nbsp;<span class="small">Host: M. Abdesselam</span><br>
 &nbsp;&nbsp;<details><summary><i>Title: What is a Feynman Diagram?</i></summary>There are many viable answers to this question. Mine is: a finite combinatorial structure which encodes an algebraic expression given by contraction of indices, starting from a collection of elementary tensors. When seen in this way, Feynman diagrams turn out to be ubiquitous in mathematics and can shed light on questions in algebra as well as analysis. I will try to give a very selective sample of applications of this notion, starting with explicit series for solutions of systems of algebraic equations.

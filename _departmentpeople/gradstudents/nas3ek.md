@@ -1,5 +1,5 @@
 ---
-UVA_id: nas3ek
+doge_university_id: nas3ek
 lastname: Sweeney
 name: Nick
 general_position: gradstudent

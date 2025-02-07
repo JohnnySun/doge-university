@@ -1,5 +1,5 @@
 ---
-UVA_id: avo2t
+doge_university_id: avo2t
 lastname: Morgan
 name: Aleksander
 general_position: gradstudent

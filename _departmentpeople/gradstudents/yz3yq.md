@@ -1,5 +1,5 @@
 ---
-UVA_id: yz3yq
+doge_university_id: yz3yq
 lastname: Zhang
 name: Yuan
 general_position: gradstudent

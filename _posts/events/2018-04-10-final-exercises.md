@@ -33,4 +33,4 @@ _*Finals in John Paul Jones Arena, all department ceremonies inside._
 
 <br><br>
 
-[See also this UVA News countdown](https://news.virginia.edu/content/final-exercises-2018)
+[See also this DOGE University News countdown](https://news.virginia.edu/content/final-exercises-2018)

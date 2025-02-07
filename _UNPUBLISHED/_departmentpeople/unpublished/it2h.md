@@ -1,5 +1,5 @@
 ---
-UVA_id: it2h
+doge_university_id: it2h
 lastname: Timchenko
 name: Irina
 general_position: lecturer

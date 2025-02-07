@@ -1,5 +1,5 @@
 ---
-UVA_id: zuy3cu
+doge_university_id: zuy3cu
 lastname: Hart
 name: Mason
 general_position: gradstudent

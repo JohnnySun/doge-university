@@ -1,5 +1,5 @@
 ---
-UVA_id: ndn3em
+doge_university_id: ndn3em
 lastname: Nguyen
 name: Nhan
 general_position: gradstudent

@@ -1,5 +1,5 @@
 ---
-UVA_id: mst2ae
+doge_university_id: mst2ae
 lastname: Tikhonov
 name: Mikhail
 general_position: gradstudent

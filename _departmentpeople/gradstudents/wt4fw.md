@@ -1,5 +1,5 @@
 ---
-UVA_id: wt4fw
+doge_university_id: wt4fw
 lastname: Tralle
 name: Wojciech
 general_position: gradstudent

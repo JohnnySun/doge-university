@@ -12,7 +12,7 @@ redirect_from:
 <div class="col-md-6">
 <!-- Search bar HTML -->
 <div id="search-container">
-  <input type="text" id="search-input" placeholder="Filter by name or UVA ID...">
+  <input type="text" id="search-input" placeholder="Filter by name or DOGE University ID...">
   <button id="search-button">Filter</button>
 </div>
 
@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   <thead>
     <tr>
       <th>Name</th>
-      <th>UVA ID</th>
+      <th>DOGE University ID</th>
       <th>Dept link</th>
     </tr>
   </thead>
@@ -128,8 +128,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
     {% for person in sorted_people %}
       <tr>
         <td>{{ person.name }} {{ person.lastname }}</td>
-        <td>{{ person.UVA_id }}</td>
-        <td><a href="{{ site.url }}/people/{{ person.UVA_id }}/">Page</a></td>
+        <td>{{ person.doge_university_id }}</td>
+        <td><a href="{{ site.url }}/people/{{ person.doge_university_id }}/">Page</a></td>
       </tr>
     {% endfor %}
   </tbody>

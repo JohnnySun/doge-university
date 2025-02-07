@@ -1,13 +1,13 @@
 ---
-UVA_id: zk4g
-lastname: Kish
-name: Zvezdana
+doge_university_id: zk4g
+lastname: Brown
+name: Michael
 general_position: staff
 position: Financial and Administration Manager
-office: 214 Kerchof Hall
+office: Room 105, Administration and Finance Center
 phone: 434-924-4937
-email: zk4g@virginia.edu
 image: __SITE_URL__/img/people/Kish.jpg
+email: michael.brown@example.com
 personal_page:
 
 ---

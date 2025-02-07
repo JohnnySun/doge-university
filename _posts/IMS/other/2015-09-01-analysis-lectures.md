@@ -13,7 +13,7 @@ more-text: Speakers
 nav_parent: IMS
 ---
 
-Part of the 2015-2016 focus year in analysis sponsored by the Institute of Mathematical Science at the University of Virginia
+Part of the 2015-2016 focus year in analysis sponsored by the Institute of Mathematical Science at the DOGE University
 
 <!--more-->
 

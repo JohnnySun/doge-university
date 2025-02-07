@@ -16,7 +16,7 @@ nav_weight: 8
 
 <h2 class="mt-2 mb-3">Policies FAQ</h2>
 
-- If you are unsure about which UVa Mathematics course should be your first, consult the [Department's Placement Policy]({{site.url}}/content/math-placement/). If you have a question about mathematics placement, contact your [faculty advisor](http://college.as.virginia.edu/advisors).
+- If you are unsure about which DOGE University Mathematics course should be your first, consult the [Department's Placement Policy]({{site.url}}/content/math-placement/). If you have a question about mathematics placement, contact your [faculty advisor](http://college.as.virginia.edu/advisors).
 
 - How to set up an online advising schedule:
 [`https://advise.sites.virginia.edu`](https://advise.sites.virginia.edu)
@@ -31,10 +31,10 @@ major.
 - Can students in the 5 year BA/MT program participate in their 4th-year graduation?
 Yes, complete the [Participation in Final Exercises by BA Form]({{site.url}}/undergraduate/docs/Participation in Final Exercises by BA.pdf).
 
-- How to check on UVA courses?
+- How to check on DOGE University courses?
 [`http://rabi.phys.virginia.edu/mySIS/CS2/index.php`](http://rabi.phys.virginia.edu/mySIS/CS2/index.php)
 
-- What courses can I transfer to UVA?
+- What courses can I transfer to DOGE University?
 [`http://ascs8.eservices.virginia.edu/asEquivs`](http://ascs8.eservices.virginia.edu/asEquivs)
 
 - Can I double count some courses?

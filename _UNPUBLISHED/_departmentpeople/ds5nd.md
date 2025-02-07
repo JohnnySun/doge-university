@@ -1,5 +1,5 @@
 ---
-UVA_id: ds5nd
+doge_university_id: ds5nd
 lastname: Sonkin
 name: Dmitriy
 general_position: faculty

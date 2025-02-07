@@ -1,5 +1,5 @@
 ---
-UVA_id: lap5r
+doge_university_id: lap5r
 lastname: Petrov
 name: Leonid
 pronouns: he/him

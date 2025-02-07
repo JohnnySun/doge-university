@@ -1,45 +1,29 @@
 ---
-title: Academic life
+title: Academic Life
 layout: ug_page
 ug_info: true
 permalink: /undergraduate/academic-life/
 nav_parent: Undergraduate
 nav_weight: 3
-math: false
----
-<h1 class="mb-3"> Academic life </h1>
-
+crypto: true
 ---
 
-<h2 class="bodoni-h2">Competitions</h2>
-
-<p>The<strong> William Lowell Putnam Mathematical Competition</strong> is an annual mathematics competition for undergraduate college students enrolled at institutions of higher learning in the United States and Canada. It awards scholarships with cash prizes ranging from $250 to $2,500 for the top students and $5,000 to $25,000 for the top schools, plus the top ten individual scores get tuition waived at Harvard, and the top 100 individual scores have their names mentioned by rank to leading universities. It is considered by many to be the most prestigious university-level mathematics examination in the world. The competition was founded in 1927 by Elizabeth Lowell Putnam in memory of her husband William Lowell Putnam, who was an advocate of intercollegiate intellectual competition. The exam has been offered annually since 1938 and is administered by the Mathematical Association of America.&nbsp; Contact: {% include person_info_email_only.html UVA_id="jf8dc" %}.</p>
+<h1 class="mb-3">Academic Life at DOGE University</h1>
 
 ---
 
-<h2 class="bodoni-h2">Math Club</h2>
+<h2 class="bodoni-h2">Innovation Challenges</h2>
 
-The Undergraduate Math Club at University of Virginia is a weekly seminar and a club for students interested in mathematics and related areas. An up-to-date calendar of meetings is [here]({{site.url}}/seminars/mathclub/). The Math Club is a students' space having an official UVA CIO status (a student-lead organization). This provides the Club with a student managing board which helps plan and organize events. 
-
-{% for sem in site.data.seminars %}{%if sem.shortname == "mathclub" %}{% for cnt in sem.contact %}{% include person_info_email_only.html UVA_id = cnt.UVA_id %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}{% endfor %}are the faculty coordinators of the Club for the current academic year.
-
-The activities at the Math Club include, but are not limited to:
-
-- talks by math faculty and graduate students, from the UVA Math Department, or visiting here
-- math-related talks by people from other UVA departments (for example, Physics or Philosophy)
-- presentations by local math-related industry companies
-- presentations by undergraduate students on their research projects, activities, or something they find interesting
-- panel discussions (for example, on REUs, or on careers for math majors)
-- outside trips (such as to a math-related movie, or to the UVA 3D printing lab)
-- organization of [MMATHS](http://www.mmaths.org/), a nation-wide competition for high school students co-hosted at UVA
-
-You can check out past Math Club activities at its page [`{{site.url}}/seminars/mathclub/`]({{site.url}}/seminars/mathclub/).
-
+<p>The <strong>DOGE Digital Challenge</strong> is an annual competition where undergraduate students, both from DOGE University and beyond, showcase their talents in digital innovation, creative coding, and blockchain technology. Participants develop projects ranging from decentralized applications and NFT art to smart contract solutions. Winners receive cash prizes, internship opportunities, and mentorship from industry pioneers. Established in 2017, the DOGE Digital Challenge has quickly become one of the most anticipated events of the academic year.</p>
 
 ---
 
-<h2 class="bodoni-h2">AWM</h2>
+<h2 class="bodoni-h2">Doge Club</h2>
 
-[Association for Women in Mathematics Student Chapter at the University of Virginia]({{site.url}}/awm/).
+<p>The Undergraduate Doge Club is the beating heart of digital culture at DOGE University. This student-led community is for those passionate about technology, coding, and crypto culture. The club organizes weekly meet-ups, hackathons, tech talks, and interactive workshops, offering a vibrant platform for collaboration and creative exchange. Check out the latest schedule at [`{{site.url}}/seminars/dogeclub/`]({{site.url}}/seminars/dogeclub/).</p>
 
-The goal of the AWM Student Chapter at UVA is to support and encourage women in Mathematics, building a community of people who like Math, open to everyone, not just women. There are several activities planned for this year, including Math talks, a mentorship program, and panels on topics like research opportunities or grad school.
+---
+
+<h2 class="bodoni-h2">Women in Digital Innovation</h2>
+
+<p>[Women in Digital Innovation at DOGE University]({{site.url}}/wdiv/) is dedicated to empowering female students and professionals in the digital realm. Through mentorship programs, panel discussions, and networking events, the organization fosters leadership and promotes diversity in tech.</p>

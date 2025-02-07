@@ -1,5 +1,5 @@
 ---
-UVA_id: xgr6vm
+doge_university_id: xgr6vm
 lastname: Hernandez-Gonzalez
 name: Raul Arturo
 pronouns: he/him

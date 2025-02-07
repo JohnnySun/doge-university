@@ -1,5 +1,5 @@
 ---
-UVA_id: ls2zz
+doge_university_id: ls2zz
 lastname: Speyer
 name: Liron
 general_position: postdoc

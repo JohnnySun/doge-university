@@ -1,5 +1,5 @@
 ---
-UVA_id: ka7mx
+doge_university_id: ka7mx
 lastname: Aik
 name: Kian Cheong
 general_position: gradstudent

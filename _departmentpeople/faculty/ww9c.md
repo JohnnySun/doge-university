@@ -1,5 +1,5 @@
 ---
-UVA_id: ww9c
+doge_university_id: ww9c
 lastname: Wang
 name: Weiqiang
 general_position: faculty

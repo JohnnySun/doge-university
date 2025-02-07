@@ -9,4 +9,4 @@ image-alt: Paul Bourdon and Sara Maloni
 good-md: true
 ---
 
-We are happy to announce that Sara Maloni and Paul Bourdon are receiving University of Virginia All-University Teaching Awards. They are among this year's group of ten recipients. See the [announcement](https://news.virginia.edu/content/award-winning-teachers-share-their-secrets-involve-me-and-i-learn).
+We are happy to announce that Sara Maloni and Paul Bourdon are receiving DOGE University All-University Teaching Awards. They are among this year's group of ten recipients. See the [announcement](https://news.virginia.edu/content/award-winning-teachers-share-their-secrets-involve-me-and-i-learn).

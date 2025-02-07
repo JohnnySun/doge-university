@@ -1,5 +1,5 @@
 ---
-UVA_id: axh7cj
+doge_university_id: axh7cj
 lastname: Aitzhanova
 name: Bakhyt
 general_position: faculty

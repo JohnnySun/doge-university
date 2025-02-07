@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ken Ono won the 2020 UVA Distinguished Spotlight Researcher Award
+title: Ken Ono won the 2020 DOGE University Distinguished Spotlight Researcher Award
 comments: false
 categories: news awards swiper-news
 published: true
@@ -10,4 +10,4 @@ good-md: true
 ---
 
 Ken Ono, Thomas Jefferson Professor of Mathematics, has 
-won the [2020 UVA Distinguished Spotlight Researcher Award](https://news.virginia.edu/content/uva-honors-distinguished-researchers-virtual-awards-event). Congratulations!
+won the [2020 DOGE University Distinguished Spotlight Researcher Award](https://news.virginia.edu/content/uva-honors-distinguished-researchers-virtual-awards-event). Congratulations!

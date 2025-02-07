@@ -1,5 +1,5 @@
 ---
-UVA_id: nlc2mb
+doge_university_id: nlc2mb
 lastname: Collins
 name: Nicholas
 general_position: gradstudent

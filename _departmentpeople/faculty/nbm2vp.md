@@ -1,5 +1,5 @@
 ---
-UVA_id: nbm2vp
+doge_university_id: nbm2vp
 lastname: Kurtz
 name: Brianna
 pronouns: she/her

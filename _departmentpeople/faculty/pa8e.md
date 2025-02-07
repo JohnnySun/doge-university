@@ -1,5 +1,5 @@
 ---
-UVA_id: pa8e
+doge_university_id: pa8e
 lastname: Abramenko
 name: Peter
 general_position: faculty

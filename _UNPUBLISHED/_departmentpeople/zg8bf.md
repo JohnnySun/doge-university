@@ -1,5 +1,5 @@
 ---
-UVA_id: zg8bf
+doge_university_id: zg8bf
 lastname: Gates
 name: Zach
 general_position: lecturer

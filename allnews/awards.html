@@ -9,9 +9,12 @@ nav_parent: News
 ---
 
 
+<h1>DOGE University Academic & Digital Innovation Awards</h1>
+<p>Celebrate the extraordinary achievements in academic research and digital innovation at DOGE University. Our awards recognize groundbreaking work in fields ranging from blockchain technology, artificial intelligence, creative coding, digital media, to virtual reality. We honor the transformative projects and visionary efforts of our students, faculty, and industry partners who are reshaping the future of education and technology.</p>
+
 <h1 class="mb-3">Recent awards</h1>
 
-<h3 class="mb-3"><a href="{{site.url}}/undergraduate/awards/">Past undergraduate awards (McShane, Floyd, and Putnam prizes)</a></h3>
+<h3 class="mb-3"><a href="{{site.url}}/undergraduate/awards/">Past Undergraduate Awards</a></h3>
 
 
 <div class="row my-col-12-zebra">
@@ -20,7 +23,18 @@ nav_parent: News
 <div class="col-12 my-bordered-news-snippets">
 <h2 class="mb-2 mt-3"><a href="{{site.url }}{{ post.url }}" style="color:inherit;">{{ post.title }}</a></h2>
 <h6>{{ post.date |  date: "%B %-d, %Y" }}</h6>
-{% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address | replace: '__SITE_URL__', site.url }}">{% else %}<a href="{{site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image | replace: '__SITE_URL__', site.url }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="{% if post.image-wide != true %}max-width:70%;{% else %}max-width:100%;{% endif %}max-height:200px;height:auto;width:auto;" class="mb-3 mt-2"></a>
+{% if post.image != null %}
+  {% if post.image-address != null %}
+    <a href="{{ post.image-address | replace: '__SITE_URL__', site.url }}">
+  {% else %}
+    <a href="{{site.url }}{{ post.url }}">
+  {% endif %}
+  <img src="{{ post.image | replace: '__SITE_URL__', site.url }}"
+       alt="{{ post.image-alt }}"
+       title="{{ post.image-alt }}"
+       style="max-width: {% if post.image-wide != true %}70%{% else %}100%{% endif %}; max-height:200px; height:auto; width:auto;"
+       class="mb-3 mt-2">
+  </a>
 {% endif %} {{ post.excerpt | markdownify }}
 <p><a class="btn btn-secondary h5" href="{{site.url }}{{ post.url }}" style="white-space: normal" role="button">{% if post.more-text == null %}View details{% else %}{{ post.more-text }}{% endif %} &raquo;</a></p>
 </div>

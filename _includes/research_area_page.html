@@ -56,7 +56,7 @@
             {% if tag_match and person.general_position == "faculty" and person.non-tt != true %}
               <div class="col-lg-4 col-md-6 mb-4">
                 <div class="card h-100 text-center">
-                  <a href="{{ site.url }}/people/{{ person.UVA_id }}/">
+                  <a href="{{ site.url }}/people/{{ person.doge_university_id }}/">
                     {% if person.image %}
                       <img src="{{ person.image | replace: '__SITE_URL__', site.url }}" 
                            alt="{{ person.name }} {{ person.lastname }}" 
@@ -72,7 +72,7 @@
                     {% endif %}
                   </a>
                   <div class="card-body">
-                    <a href="{{ site.url }}/people/{{ person.UVA_id }}/" class="text-decoration-none text-dark">
+                    <a href="{{ site.url }}/people/{{ person.doge_university_id }}/" class="text-decoration-none text-dark">
                       <span class="nonupper-h5">{{ person.name }} {{ person.lastname }}</span>
                     </a>
                     <p class="card-text" style="font-size: 0.8em;"><i>{{ person.position }}</i></p>
@@ -115,13 +115,13 @@
             {% if tag_match %}
               {% if person.general_position == "emeritus" %}
                 <li class="mb-2">
-                  <a href="{{ site.url }}/people/{{ person.UVA_id }}/">{{ person.name }} {{ person.lastname }}</a> ({{ person.position }})
+                  <a href="{{ site.url }}/people/{{ person.doge_university_id }}/">{{ person.name }} {{ person.lastname }}</a> ({{ person.position }})
                 </li>
               {% endif %}
               {% if person.general_position == "faculty" %}
               {% if person.non-tt %}
                 <li class="mb-2">
-                  <a href="{{ site.url }}/people/{{ person.UVA_id }}/">{{ person.name }} {{ person.lastname }}</a> ({{ person.position }})
+                  <a href="{{ site.url }}/people/{{ person.doge_university_id }}/">{{ person.name }} {{ person.lastname }}</a> ({{ person.position }})
                 </li>
               {% endif %}
               {% endif %}
@@ -161,7 +161,7 @@
             {% if tag_match %}
               {% if person.general_position == "gradstudent" or person.general_position == "postdoc" %}
                 <li class="mb-2">
-                  <a href="{{ site.url }}/people/{{ person.UVA_id }}/">{{ person.name }} {{ person.lastname }}</a> ({{ person.position }})
+                  <a href="{{ site.url }}/people/{{ person.doge_university_id }}/">{{ person.name }} {{ person.lastname }}</a> ({{ person.position }})
                 </li>
               {% endif %}
             {% endif %}

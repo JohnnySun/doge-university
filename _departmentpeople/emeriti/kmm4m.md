@@ -1,5 +1,5 @@
 ---
-UVA_id: kmm4m
+doge_university_id: kmm4m
 lastname: McCrimmon
 name: Kevin
 general_position: emeritus

@@ -1,5 +1,5 @@
 ---
-UVA_id: jrd6an
+doge_university_id: jrd6an
 lastname: Chen
 name: Ziming
 general_position: gradstudent

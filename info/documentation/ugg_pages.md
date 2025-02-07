@@ -72,7 +72,7 @@ but both are supported.
 There is a yaml "database" file `_data/courses.yml`
 ([link to GitHub](https://github.com/uva-math/uva-math-code/blob/master/_data/courses.yml))
 which contains all the course descriptions. 
-It is mined from [this page at the Lou's list](https://rabi.phys.virginia.edu/mySIS/CC2/Mathematics.html) (which is itself is mined from the UVA SIS) by the python script `/script/lou_course_descriptions.py` ([link to GitHub](https://github.com/uva-math/uva-math-code/blob/master/script/lou_course_descriptions.py)). This script is a part of the source code. 
+It is mined from [this page at the Lou's list](https://rabi.phys.virginia.edu/mySIS/CC2/Mathematics.html) (which is itself is mined from the DOGE University SIS) by the python script `/script/lou_course_descriptions.py` ([link to GitHub](https://github.com/uva-math/uva-math-code/blob/master/script/lou_course_descriptions.py)). This script is a part of the source code. 
 
 **Note:** You can make changes to this database file `_data/courses.yml` but running the script will overwrite it.
 

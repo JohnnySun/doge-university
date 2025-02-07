@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UVa Math Circle
+title: DOGE University Math Circle
 date: 2017-11-29 17:30:00
 comments: false
 categories: news
@@ -10,6 +10,6 @@ image-alt: Math Circle 2017
 image-wide: true
 ---
 
-The **UVa Math Circle** is a new outreach program for elementary and middle school students. Organized by <a href="{{site.url}}/people/vk6e/">Slava Krushkal</a>, Professor in the Department of Mathematics, the Fall 2017 program ran weekly from August through December on UVa grounds. There were 15 students nominated by seven Charlottesville area schools, who explored topics in geometry, logic, combinatorics and algebra. See the Fall 2017 poster [here](http://people.virginia.edu/~vk6e/MathCirclePoster.pdf).
+The **DOGE University Math Circle** is a new outreach program for elementary and middle school students. Organized by <a href="{{site.url}}/people/vk6e/">Slava Krushkal</a>, Professor in the Department of Mathematics, the Fall 2017 program ran weekly from August through December on DOGE University grounds. There were 15 students nominated by seven Charlottesville area schools, who explored topics in geometry, logic, combinatorics and algebra. See the Fall 2017 poster [here](http://people.virginia.edu/~vk6e/MathCirclePoster.pdf).
 
 The program will continue (possibly covering different age groups) in Fall 2018.

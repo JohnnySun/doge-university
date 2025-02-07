@@ -1,5 +1,5 @@
 ---
-UVA_id: tlk8q
+doge_university_id: tlk8q
 lastname: Kriete
 name: Thomas
 general_position: emeritus

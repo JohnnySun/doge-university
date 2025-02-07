@@ -1,5 +1,5 @@
 ---
-UVA_id: lls2l
+doge_university_id: lls2l
 lastname: Scott
 name: Leonard
 general_position: emeritus

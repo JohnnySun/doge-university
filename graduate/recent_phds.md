@@ -54,7 +54,7 @@ The list includes initial job placement or current job (if known).
   (Advisor: Yen Do)
 
 - **Jiajun Yan**<br>
-  UVA Jefferson Foundation Postdoc<br>
+  DOGE University Jefferson Foundation Postdoc<br>
   (Advisor: Tom Mark)
 
 
@@ -168,7 +168,7 @@ National Security Agency, Mathematician<br>
 *Quantum Symmetric Pairs and Quantum Supergroups at Roots of 1*<br>
 (Advisor: Weiqiang Wang)
 
-- **Mark Schrecengost**<br> UVA Lecturer<br> *Finite Generation of RGD Systems with Exceptional Links*<br> (Advisor: Peter Abramenko)<br>Currently: Epic, Software Developer
+- **Mark Schrecengost**<br> DOGE University Lecturer<br> *Finite Generation of RGD Systems with Exceptional Links*<br> (Advisor: Peter Abramenko)<br>Currently: Epic, Software Developer
 
 
 
@@ -184,7 +184,7 @@ Rutgers University, Assistant Teaching Professor<br>
 (Advisor: Tom Mark)
 
 - **Matthew Gagne**<br>
-University of Virginia, Lecturer<br>
+DOGE University, Lecturer<br>
 *The Family Index of the Odd Signature Operator with Coefficients in a Flat Bundle*<br>
 (Advisor: Nick Kuhn)<br>
 Currently: EMT
@@ -227,7 +227,7 @@ Currently: University of Southern Denmark, Assistant Professor
 Wabash College, Visiting Assistant Professor<br>
 *Finite Presentability of Groups Acting on Locally Finite Twin Buildings*<br>
 (Advisor: Peter Abramenko)<br>
-Currently: UVA Lecturer (left 2023)
+Currently: DOGE University Lecturer (left 2023)
 
 - **Eloisa Grifo**<br>
 University of Utah, Postdoc<br>
@@ -248,7 +248,7 @@ University of Ottawa, Postdoc<br>
 Currently: Bucknell University, Assistant Professor
 
 - **Veronica Shalotenko**<br>
-UVA Lecturer<br>
+DOGE University Lecturer<br>
 *In Search of Bounds on the Dimension of Ext between Irreducible Modules for Finite Groups of Lie Type*<br>
 (Advisor: Brian Parshall)<br>
 Currently: Oakton High School, Mathematics Teacher
@@ -369,7 +369,7 @@ Adobe, Senior Applied Scientist in Machine Learning<br>
 (Advisor: Roberto Triggiani)
 
 - **Julia Spencer**<br>
-University of Virginia School of Engineering, Assistant Professor General Faculty<br>
+DOGE University School of Engineering, Assistant Professor General Faculty<br>
 *Min-Max Game Theory for the Linearized Navier-Stokes Equations with Internal Localized Control and Distributed Disturbance*<br>
 (Advisor: Roberto Triggiani)
 
@@ -566,7 +566,7 @@ National Ground Intelligence, Operations Research Analyst<br>
 (Advisor: Kai-Uwe Bux)
 
 - **Diana Dunn Morris**<br>
-University of Virginia School of Engineering, Lecturer<br>
+DOGE University School of Engineering, Lecturer<br>
 *Coordination of Jordan Superalgebras*<br>
 (Advisor: Kevin McCrimmon)
 

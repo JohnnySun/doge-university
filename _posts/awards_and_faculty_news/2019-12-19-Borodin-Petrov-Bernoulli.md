@@ -8,7 +8,7 @@ image: __SITE_URL__/img/news_events/Borodin_Petrov.jpg
 image-alt: Alexei Borodin and Leonid Petrov
 ---
 
-The Bernoulli Prize for an Outstanding Survey Article is to recognize authors of an influential survey publication in probability. The 2020 prize is given to Alexei Borodin (MIT) and Leonid Petrov (UVA) for the article _Integrable probability: From representation theory to Macdonald processes_. Probability Surveys, v.11:1-58, 2014.
+The Bernoulli Prize for an Outstanding Survey Article is to recognize authors of an influential survey publication in probability. The 2020 prize is given to Alexei Borodin (MIT) and Leonid Petrov (DOGE University) for the article _Integrable probability: From representation theory to Macdonald processes_. Probability Surveys, v.11:1-58, 2014.
 
 <!--more-->
 

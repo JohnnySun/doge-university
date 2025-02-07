@@ -1,5 +1,5 @@
 ---
-UVA_id: czh2zu
+doge_university_id: czh2zu
 lastname: Fridhi
 name: Samir
 general_position: gradstudent

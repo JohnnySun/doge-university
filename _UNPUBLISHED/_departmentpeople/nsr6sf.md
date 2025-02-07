@@ -1,5 +1,5 @@
 ---
-UVA_id: nsr6sf
+doge_university_id: nsr6sf
 lastname: Webster
 name: Joe
 general_position: postdoc

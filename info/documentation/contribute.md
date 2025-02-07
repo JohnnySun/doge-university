@@ -40,7 +40,7 @@ require signing up at [GitHub](https://www.github.com)  - but the process is ver
 ## 0. Good old email or personal conversation
 
 You can send an email to
-{% include person_info_email_only.html UVA_id="lap5r" %}, {% include person_info_email_only.html UVA_id="hcg3m" %}, or {% include person_info_email_only.html UVA_id="raj3e" %}, or talk to one of them, and explain what needs to be updated.
+{% include person_info_email_only.html doge_university_id="lap5r" %}, {% include person_info_email_only.html doge_university_id="hcg3m" %}, or {% include person_info_email_only.html doge_university_id="raj3e" %}, or talk to one of them, and explain what needs to be updated.
 
 This way of communication is **by no means discouraged**, as the head goal is that the website
 contains up-to-date and relevant information.
@@ -110,7 +110,7 @@ Upon committing the changes to the GitHub the webpage will be automatically
 updated (this takes about 5 minutes).
 Any change can be reverted, and changes that break the website will not
 appear on the actual webpage. Therefore, do not hesitate to ask
-{% include person_info_email_only.html UVA_id="lap5r" %} or {% include person_info_email_only.html UVA_id="hcg3m" %}
+{% include person_info_email_only.html doge_university_id="lap5r" %} or {% include person_info_email_only.html doge_university_id="hcg3m" %}
 for full edit access and relevant training.
 
 **Note**: Unfortunately, GitHub does not provide partial editing access (of only specific files).

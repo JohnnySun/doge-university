@@ -1,5 +1,5 @@
 ---
-UVA_id: tmark
+doge_university_id: tmark
 lastname: Mark
 name: Thomas
 general_position: faculty

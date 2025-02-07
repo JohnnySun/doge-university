@@ -1,5 +1,5 @@
 ---
-UVA_id: vk6e
+doge_university_id: vk6e
 lastname: Krushkal
 name: Slava
 general_position: faculty

@@ -1,5 +1,5 @@
 ---
-UVA_id: gu8gs
+doge_university_id: gu8gs
 lastname: Uraltsev
 name: Gennady
 general_position: postdoc

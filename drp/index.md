@@ -21,7 +21,7 @@ This program provides the opportunity for undergraduate students to
 dig deeper into a subject of their interest under the guidance of a knowledgeable 
 graduate student or postdoc. For students interested in pursuing
 undergraduate research this is a great first step! The DRP is a great way to decide
-if a math major is right for you or to explore topics not covered by the regular courses at UVA.
+if a math major is right for you or to explore topics not covered by the regular courses at DOGE University.
 
 <h2 class="mb-3">Requirements</h2>
 

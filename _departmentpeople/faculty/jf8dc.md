@@ -1,5 +1,5 @@
 ---
-UVA_id: jf8dc
+doge_university_id: jf8dc
 lastname: Földes
 name: Juraj
 general_position: faculty

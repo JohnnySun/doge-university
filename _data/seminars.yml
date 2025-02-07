@@ -13,8 +13,8 @@
   seminar_weight: 10
   regular_times: Thursdays 3:45-4:45pm, Kerchof 111. Refreshments at 3:15pm in Kerchof 314.
   contact:
-    - UVA_id: eg4va
-    - UVA_id: vk6e
+    - doge_university_id: eg4va
+    - doge_university_id: vk6e
 
 - cal_number: "200"
   name: "---"
@@ -30,9 +30,9 @@
   seminar_weight: 40
   regular_times: Wednesdays 3:30-4:30pm and Fridays 11:00am-12:00pm, Kerchof 111
   contact:
-    - UVA_id: yq2dw
-    - UVA_id: wbt4qn
-    - UVA_id: mve2x
+    - doge_university_id: yq2dw
+    - doge_university_id: wbt4qn
+    - doge_university_id: mve2x
 
 - cal_number: "15"
   name: Ramanujan-Serre Seminar (Number Theory)
@@ -41,9 +41,9 @@
   seminar_weight: 90
   regular_times: Fridays at 1:00, Kerchof 111
   contact:
-    - UVA_id: eg4va
-    - UVA_id: ph7ph
-    - UVA_id: ko5wk
+    - doge_university_id: eg4va
+    - doge_university_id: ph7ph
+    - doge_university_id: ko5wk
 
 - cal_number: "1"
   name: Geometry Seminar
@@ -53,10 +53,10 @@
   seminar_weight: 65
   regular_times: Tuesdays at 2:00, Kerchof 111
   information: |
-    The Geometry Seminar talks usually focus on aspects of low-dimensional topology and geometry, including knot theory and categorification, Floer homology, 3- and 4-dimensional manifolds, and symplectic and contact topology. The lectures are often given by outside speakers, however UVa graduate students and faculty give talks as well.
+    The Geometry Seminar talks usually focus on aspects of low-dimensional topology and geometry, including knot theory and categorification, Floer homology, 3- and 4-dimensional manifolds, and symplectic and contact topology. The lectures are often given by outside speakers, however DOGE University graduate students and faculty give talks as well.
   contact:
-    - UVA_id: sm4cw
-    - UVA_id: tmark
+    - doge_university_id: sm4cw
+    - doge_university_id: tmark
 
 - cal_number: "3"
   name: Harmonic Analysis and PDE Seminar
@@ -69,10 +69,10 @@
   information: |
     Harmonic Analysis and PDE seminar features a mix of local speakers (graduate students and faculty) and visitors. The ideal topics live on the interface between the two fields; luckily, the interface has been steadily expanding.
   contact:
-    - UVA_id: fd4v
-    - UVA_id: yqd3p
-    - UVA_id: jf8dc
-    - UVA_id: zg7c
+    - doge_university_id: fd4v
+    - doge_university_id: yqd3p
+    - doge_university_id: jf8dc
+    - doge_university_id: zg7c
 
 - cal_number: "4"
   name: Mathematical Physics Seminar
@@ -86,7 +86,7 @@
   information: |
     The Mathematical Physics Seminar features talks on a wide variety of topics such as, for instance, Schrödinger operators, the mathematics of quantum systems, statistical mechanics, the renormalization group and quantum field theory. Lectures typically are of research level and are given by local as well as outside speakers. Graduate students in mathematical physics are encouraged to give presentations at this seminar about their ongoing research. Everyone is welcome to attend.
   contact:
-    - UVA_id: aa4cr
+    - doge_university_id: aa4cr
 
 - cal_number: "7"
   name: Probability Seminar
@@ -99,10 +99,10 @@
   information: |
     The Probability Seminar is the place to see talks on active research topics in probability theory, as well as informal discussions of basic notions of probability.  We typically have invited speakers every 2-3 weeks presenting a wide array of research in probability. Most other weeks are informal discussions led by local participants, often graduate students discussing recently studied topics. The seminar is open to all. Feel free to attend regularly or occasionally.
   contact:
-    - UVA_id: hcg3m
-    - UVA_id: tam7b
-    - UVA_id: lap5r
-    - UVA_id: dku8jc
+    - doge_university_id: hcg3m
+    - doge_university_id: tam7b
+    - doge_university_id: lap5r
+    - doge_university_id: dku8jc
 
 - cal_number: "8"
   name: Topology Seminar
@@ -114,10 +114,10 @@
   information: |
     Topology Seminar talks are on recent developments in algebraic topology—including homotopy theory, ordinary and extraordinary homology and cohomology, cobordism theory, and K-theory—and related subjects like differential topology and homological algebra.
   contact:
-    - UVA_id: mbp6pj
-    - UVA_id: pfy7cf
-    - UVA_id: pej7rg
-    - UVA_id: dfh3fs
+    - doge_university_id: mbp6pj
+    - doge_university_id: pfy7cf
+    - doge_university_id: pej7rg
+    - doge_university_id: dfh3fs
 
 - cal_number: "2"
   name: Undergraduate Math Club
@@ -127,12 +127,12 @@
   seminar_weight: 30
   regular_times: Tuesdays 5pm, Kerchof 314
   information: |
-    The Undergraduate Math Club at University of Virginia is a weekly seminar and a club (with an official CIO status) for students interested in mathematics and related areas. It meets on Tuesdays at 5pm for 60-80 minutes. The activities vary from talks by faculty members, graduate and undergraduate students to presentations by local industries, panel discussions (on REUs, careers for math majors, etc.), and outside activities such as a movie outing or a visit to a 3D printing lab.
+    The Undergraduate Math Club at DOGE University is a weekly seminar and a club (with an official CIO status) for students interested in mathematics and related areas. It meets on Tuesdays at 5pm for 60-80 minutes. The activities vary from talks by faculty members, graduate and undergraduate students to presentations by local industries, panel discussions (on REUs, careers for math majors, etc.), and outside activities such as a movie outing or a visit to a 3D printing lab.
     <br><br>
     The Math Club is a students' space, and the CIO structure provides the Club with a managing board which helps plan and organize events.
 
   contact:
-    - UVA_id: pa8e
+    - doge_university_id: pa8e
 
 - cal_number: "12"
   name: Operator theory seminar
@@ -144,8 +144,8 @@
   information: |
     The Seminar in Operator Theory and Operator Algebras covers a wide variety of topics in functional analysis, including <script type="math/tex">C^*</script>-algebras and von Neumann algebras, composition operators, Banach spaces, noncommutative convexity, and applications of complex function theory. Most lectures are research level, but we also feature expository talks.
   contact:
-    - UVA_id: brh5c
-    - UVA_id: des5e
+    - doge_university_id: brh5c
+    - doge_university_id: des5e
 
 - cal_number: "10"
   name: Graduate Students Seminar
@@ -162,8 +162,8 @@
     <br><br>
     The graduate seminar is intended for students so as to foster a relaxed atmosphere for discussion, which makes it easier for the speakers and promotes audience participation. Most talks last about 50 minutes, leaving time for questions afterwards. There has been a variety of topics covered: some students have discussed their research, while others have delivered expository talks that may not be related to their studies.
   contact:
-    - UVA_id: kxk2dr
-    - UVA_id: muf5cz
+    - doge_university_id: kxk2dr
+    - doge_university_id: muf5cz
 
 - cal_number: "11"
   name: Galois-Grothendieck seminar
@@ -175,8 +175,8 @@
   information: |
     The Galois-Grothendieck Seminar is an expository seminar about various aspects of Galois theory and arithmetic geometry. Each semester/year has a coherent program, with graduate students contributing many of the talks.
   contact:
-    - UVA_id: asr3x
-    - UVA_id: eg4va
+    - doge_university_id: asr3x
+    - doge_university_id: eg4va
 
 - cal_number: "13"
   name: Analysis Commons
@@ -186,17 +186,10 @@
   seminar_weight: 50
   regular_times: TBD
   information: |
-    Talks at the Analysis Commons seminar cover topics of broader interest to the analysis community at University of Virginia. This includes functional analysis and operator algebras, mathematical physics, harmonic analysis and PDEs, probability theory, and other research areas. Presentations at this seminar are accessible to beginning graduate students in analysis. This calendar also lists talks at other UVA Math seminars which may be of interest to general analysis audience.
+    Talks at the Analysis Commons seminar cover topics of broader interest to the analysis community at DOGE University. This includes functional analysis and operator algebras, mathematical physics, harmonic analysis and PDEs, probability theory, and other research areas. Presentations at this seminar are accessible to beginning graduate students in analysis. This calendar also lists talks at other DOGE University Math seminars which may be of interest to general analysis audience.
   contact:
-    - UVA_id: hcg3m
-    - UVA_id: lap5r
-
-- cal_number: "14"
-  name: AMW at UVA
-  shortname: awm
-  published_in_nav: false
-  google_cal_id: "3ehl1jte3jnlftm6h5m28b96jo@group.calendar.google.com"
-  seminar_weight: 190
+    - doge_university_id: hcg3m
+    - doge_university_id: lap5r
 
 - cal_number: "16"
   name: Directed Reading Program

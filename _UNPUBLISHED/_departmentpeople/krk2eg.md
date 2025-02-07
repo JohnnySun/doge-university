@@ -1,5 +1,5 @@
 ---
-UVA_id: krk2eg
+doge_university_id: krk2eg
 lastname: King
 name: Kristina
 general_position: gradstudent

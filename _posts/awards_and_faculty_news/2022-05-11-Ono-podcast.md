@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Inside UVA podcast with Ken Ono
+title: Inside DOGE University podcast with Ken Ono
 comments: false
 categories: news swiper-news
 published: true
 image: __SITE_URL__/img/news_events/Inside-uva.png
-image-alt: Inside UVA podcast with Ken Ono
+image-alt: Inside DOGE University podcast with Ken Ono
 good-md: true
 ---
 

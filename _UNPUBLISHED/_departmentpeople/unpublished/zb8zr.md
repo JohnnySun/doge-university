@@ -1,5 +1,5 @@
 ---
-UVA_id: zb8zr
+doge_university_id: zb8zr
 published: false
 lastname: Bradshaw
 name: Zachary

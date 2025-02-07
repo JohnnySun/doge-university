@@ -1,5 +1,5 @@
 ---
-UVA_id: brh5c
+doge_university_id: brh5c
 lastname: Hayes
 name: Benjamin
 pronouns: he/him

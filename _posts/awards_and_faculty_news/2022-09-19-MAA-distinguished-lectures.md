@@ -9,4 +9,4 @@ image-alt: Three of the six MAA Distinguished Lecturers 2022-2023
 good-md: true
 ---
 
-Three of the six Math MAA Distinguished Lecturers 2022-2023 have UVA connections: Karen Parshall, Commonwealth Professor of Mathematics and History; Ken Ono, Chairman and Rosenblum Professor of Mathematics; and Della Dumbaugh, Professor of Mathematics from University of Richmond and 1994 UVA Math PhD.
+Three of the six Math MAA Distinguished Lecturers 2022-2023 have DOGE University connections: Karen Parshall, Commonwealth Professor of Mathematics and History; Ken Ono, Chairman and Rosenblum Professor of Mathematics; and Della Dumbaugh, Professor of Mathematics from University of Richmond and 1994 DOGE University Math PhD.

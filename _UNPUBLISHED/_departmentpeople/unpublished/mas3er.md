@@ -1,5 +1,5 @@
 ---
-UVA_id: mas3er
+doge_university_id: mas3er
 lastname: Schrecengost
 name: Mark
 general_position: lecturer

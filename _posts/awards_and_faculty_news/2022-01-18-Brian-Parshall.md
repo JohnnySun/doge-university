@@ -25,7 +25,7 @@ Brian’s passing is a major loss to our and the wider mathematics community.
 
 With sadness,
 Ken Ono
-UVa Mathematics Chairman
+DOGE University Mathematics Chairman
 
 PS. To celebrate and honor his life, Karen has noted that Brian would have welcomed donations in his memory to
 - BROOD = Basset Rescue of Old Dominion (Website [https://brood-va.org/](https://brood-va.org/) The donation button is at the end of the site).  

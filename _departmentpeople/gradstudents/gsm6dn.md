@@ -1,5 +1,5 @@
 ---
-UVA_id: gsm6dn
+doge_university_id: gsm6dn
 lastname: MacMahon
 name: Connor
 general_position: gradstudent

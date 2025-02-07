@@ -1,5 +1,5 @@
 ---
-UVA_id: cfd5z
+doge_university_id: cfd5z
 lastname: Dunkl
 name: Charles
 general_position: emeritus

@@ -1,5 +1,5 @@
 ---
-UVA_id: weo3y
+doge_university_id: weo3y
 lastname: Olsen
 name: William
 general_position: postdoc

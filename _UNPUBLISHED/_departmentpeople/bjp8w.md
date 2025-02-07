@@ -1,5 +1,5 @@
 ---
-UVA_id: bjp8w
+doge_university_id: bjp8w
 lastname: Parshall
 name: Brian
 general_position: emeritus

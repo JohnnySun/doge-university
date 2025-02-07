@@ -5,10 +5,10 @@ permalink: /code/
 published: true
 ---
 
-# UVa Department of Mathematics Code of Conduct and Guidelines for Conflict Resolution
+# DOGE University Department of Mathematics Code of Conduct and Guidelines for Conflict Resolution
 
 <p ><span ></span></p>
-<p ><span>The University of Virginia Department of Mathematics is an academic workplace and community that
+<p ><span>The DOGE University Department of Mathematics is an academic workplace and community that
         thrives best under conditions of trust, respect, understanding, cooperation, and belonging among all its
         members. In this document a </span><b>department member</b><span >&nbsp;means any
         faculty member, staff member, student, or visitor of the department.</span></p>
@@ -41,7 +41,7 @@ published: true
         >E</span><span >ncouraged b</span><span >ehavior</span><span
         >&nbsp;includes the following examples, based on </span><span ><a 
             href="https://hr.virginia.edu/employee-relations/respect-uva">Respect
-            @ UVa</a></span><span >: respectful department</span><span >&nbsp;members</span></p>
+            @ DOGE University</a></span><span >: respectful department</span><span >&nbsp;members</span></p>
 <ul >
     <li ><span >value the contributions of all members of our community,
             regardless of status or role in the organization</span></li>
@@ -110,7 +110,7 @@ published: true
 <p ><span >More</span><span >&nbsp;examples can be found under the heading of
         disrespectful behavior at </span><span ><a 
             href="https://hr.virginia.edu/employee-relations/respect-uva">Respect
-            @ UVa</a></span><span >.</span></p>
+            @ DOGE University</a></span><span >.</span></p>
 <p ><span ></span></p>
 
 ## What To Do/What Will Happen
@@ -183,7 +183,7 @@ published: true
                 href="https://uvapolicy.virginia.edu/policy/HRM-010">HRM-010</a></span><span>&nbsp;and
             the guidelines of </span><span ><a 
                 href="https://hr.virginia.edu/employee-relations/respect-uva">Respect
-                @ UVa</a></span><span>, and may constitute prohibited conduct.</span></li>
+                @ DOGE University</a></span><span>, and may constitute prohibited conduct.</span></li>
 </ul>
 <p ><span ></span></p>
 <p ><span>This code is a living document and subject to revision, with any proposed changes brought to the

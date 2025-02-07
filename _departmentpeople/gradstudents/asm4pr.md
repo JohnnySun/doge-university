@@ -1,5 +1,5 @@
 ---
-UVA_id: asm4pr
+doge_university_id: asm4pr
 lastname: Friedman-Brown
 name: Adam Thomas
 general_position: gradstudent
